@@ -5,8 +5,13 @@ This is the legendary Titanic ML competition in Kaggle.com, using machine learni
 ### 2. Perform the Data cleaning and Feature Engineering steps for both the train and test files.
 ### 3. Use the train subset to fit the following models
 • KNN
-• Support Vector Classifier • Logistic Regression
+
+• Support Vector Classifier 
+
+• Logistic Regression
+
 • Random Forest
+
 • Gradient Boosting
 
 (Use GridSearchCV to find best hyperparameter values)
